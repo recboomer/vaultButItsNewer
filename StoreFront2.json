@@ -30,13 +30,13 @@
       ]
     },
     {
-      "PurchasableItemId": 1150,
+      "PurchasableItemId": 10,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 1000
+          "Price": 0
         }
       ],
       "GiftDrops": [
