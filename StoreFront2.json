@@ -41,7 +41,7 @@
       ],
       "GiftDrops": [
         {
-          "GiftDropId": 1150,
+          "GiftDropId": 10,
           "FriendlyName": "Shop Test",
           "Tooltip": "",
           "AvatarItemDesc": "b861e5f3-fc6d-43b3-9861-c1b45cb493a8,,,",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "PurchasableItemId": 615,
+      "PurchasableItemId": 10,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
