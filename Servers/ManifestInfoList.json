@@ -22,5 +22,17 @@
     },
     "RequiresRecNet": false,
     "ServerName": "RecNet2018"
+  },
+  {
+    "ManifestString": "6943606948982362268",
+    "FriendlyName": "October 12th, 2018",
+    "ManifestPatchInfo": {
+      "AssemmblyURL": "https://cdn.discordapp.com/attachments/917954974716137493/922593764592197702/Assembly-CSharp.dll",
+      "AssemmblyHash": "d3c7d265a1eba087b33a2b637790d0c9",
+      "PUNAppIDOffset": 165303984,
+      "VoiceAppIDOffset": 165304024
+    },
+    "RequiresRecNet": true,
+    "ServerName": "RecNet2018"
   }
 ]
